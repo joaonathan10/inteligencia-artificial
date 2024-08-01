@@ -10,7 +10,8 @@ const perguntas = [
         alternativas: [
         {
             texto:"Isso é assustador!",
-            afirmação: "Afirmação 1" 
+            afirmação: "no inicio, ficou com medo do que essa tecnologia pode fazer",
+        "Achou assustador pensar na velocidade com que a tecnologia esta avançando"
         },
         {
             texto:"Isso é maravilhoso!",
