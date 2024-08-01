@@ -83,8 +83,7 @@ function mostraAlternativas(){
                 historiaFinal += afirmacoes+ "";
                 atual++;
                 mostraPergunta();
-            }
-        );
+            };
         caixaAlternativas.appendChild(botaoAlternativas);
         }
 }
