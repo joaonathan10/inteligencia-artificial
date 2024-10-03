@@ -1,16 +1,16 @@
 export const perguntas = [
     {
-        enunciado: "Ao ir para o colégio você se depara com um sol avermelhado e percebeu que o céu perdeu seu tom azul. Chegando lá, tem uma aula sobre o aquecimento global e como isso pode afetar nossas futuras gerações e até a nossa geração. Qual seria sua reação?",
+        enunciado: "Ao chegar na olficina mecânica você se depara com dois peugeot e um citroen para arumar qual é a sua reação",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "digo que a olficina esta com um vazamento de gás e corre risco de esplosão para espantar o cliente!",
                 afirmacao: [
                     "Ficou com medo do que isso pode significar no nosso futuro "
                 ],
                 proxima: 1,
                 },
             {
-                texto: "Como chegamos nesse ponto?!",
+                texto: "tento resolver o problema com uma grande possibilidade de pasar raiva!",
                 afirmacao: [
                     "Quis saber como podemos ajudar a resolver tal problema"
                 ],
