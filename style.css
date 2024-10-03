@@ -35,3 +35,16 @@
         background-color: var(--cor-destaque);
         color: var(--cor-principal);
     }
+    .caixa-resultados {
+        display: none;
+    }
+    
+    .caixa-resultados.mostrar{
+        display: block;
+    }
+    
+    .caixa-alternativas{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
