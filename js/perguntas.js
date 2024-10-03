@@ -1,9 +1,9 @@
 export const perguntas = [
     {
-        enunciado: "Ao chegar na olficina mecânica você se depara com dois peugeot e um citroen para arumar qual é a sua reação",
+        enunciado: "Ao chegar na oficina mecânica você se depara com dois peugeot e um citroen para arumar qual é a sua reação",
         alternativas: [
             {
-                texto: "digo que a olficina esta com um vazamento de gás e corre risco de esplosão para espantar o cliente!",
+                texto: "digo que a oficina esta com um vazamento de gás e corre risco de esplosão para espantar o cliente!",
                 afirmacao: [
                     "Ficou com medo do que isso pode significar no nosso futuro "
                 ],
